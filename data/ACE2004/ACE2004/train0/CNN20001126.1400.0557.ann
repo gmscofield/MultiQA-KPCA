@@ -1,0 +1,14 @@
+T1-1	FAC 97 104	factory
+T1-7	FAC 259 267	building
+T2-2	GPE 77 88	bangladeshi
+T3-3	PER 126 132	people
+T4-4	PER 142 145	100
+T5-5	PER 172 180	deceased
+T6-6	PER 209 216	workers
+T7-8	PER 270 279	witnesses
+T8-9	FAC 321 326	floor
+T9-10	PER 389 396	victims
+T10-11	PER 402 407	women
+T11-12	PER 412 420	children
+R1-1	PHYS Arg1:T1-1 Arg2:T2-2
+R2-1	PHYS Arg1:T6-6 Arg2:T1-7

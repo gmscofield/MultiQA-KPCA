@@ -1,0 +1,26 @@
+T1-22	ORG 475 483	military
+T2-2	GPE 497 503	berlin
+T3-1	PER 90 103	boris yeltsin
+T3-3	PER 80 89	president
+T3-7	PER 156 159	his
+T3-8	PER 170 177	yeltsin
+T3-9	PER 212 214	he
+T3-11	PER 306 308	he
+T3-14	PER 347 349	he
+T3-15	PER 355 357	he
+T3-18	PER 402 409	yeltsin
+T3-19	PER 422 424	he
+T3-20	PER 440 442	he
+T5-4	GPE 72 79	russian
+T6-5	PER 110 117	readers
+T7-6	FAC 145 152	kremlin
+T8-10	PER 255 270	monica lewinsky
+T9-12	PER 337 344	clinton
+T9-13	PER 327 336	president
+T9-16	PER 367 374	clinton
+T9-17	PER 391 398	himself
+T11-21	ORG 484 493	orchestra
+R1-1	EMP-ORG Arg1:T3-3 Arg2:T5-4
+R2-1	PHYS Arg1:T3-20 Arg2:T2-2
+R3-1	GPE-AFF Arg1:T11-21 Arg2:T2-2
+R4-1	EMP-ORG Arg1:T11-21 Arg2:T1-22

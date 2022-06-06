@@ -1,0 +1,11 @@
+T1-1	ORG 69 81	dixie chicks
+T1-2	ORG 94 101	winners
+T1-4	ORG 149 154	group
+T3-3	GPE 133 142	nashville
+T4-5	PER 288 298	faith hill
+T5-6	PER 343 353	tim m graw
+T5-7	PER 335 342	husband
+T7-8	PER 383 387	they
+T7-9	PER 410 416	couple
+T9-10	PER 477 491	lee ann womack
+R1-1	PHYS Arg1:T1-2 Arg2:T3-3

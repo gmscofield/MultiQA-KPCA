@@ -1,0 +1,21 @@
+T1-1	PER 65 77	duane walker
+T2-2	ORG 119 122	nfl
+T3-3	ORG 159 178	washington redskins
+T4-4	PER 188 199	jeff george
+T4-5	PER 229 240	quarterback
+T6-6	ORG 253 270	arizona cardinals
+T7-7	PER 273 285	brad johnson
+T7-10	PER 367 371	brad
+T7-14	PER 430 433	him
+T7-16	PER 485 487	he
+T7-18	PER 529 531	he
+T7-19	PER 554 559	third
+T8-8	PER 332 333	i
+T8-11	PER 397 399	my
+T8-12	PER 412 413	i
+T8-13	PER 420 421	i
+T8-15	PER 471 472	i
+T9-9	PER 352 354	we
+T9-17	PER 520 522	we
+T9-20	PER 594 596	we
+R1-1	EMP-ORG Arg1:T4-4 Arg2:T3-3

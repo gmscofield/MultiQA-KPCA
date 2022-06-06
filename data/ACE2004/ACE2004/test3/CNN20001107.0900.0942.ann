@@ -1,0 +1,28 @@
+T1-2	ORG 1138 1146	industry
+T1-5	ORG 1311 1322	real estate
+T1-9	ORG 1121 1123	it
+T1-26	ORG 1107 1118	real estate
+T4-7	ORG 1374 1392	cnn financial news
+T5-8	GPE 1396 1404	new york
+T6-10	FAC 345 356	real estate
+T7-1	PER 106 109	you
+T7-11	PER 126 130	your
+T7-12	PER 144 147	you
+T8-6	PER 1355 1369	valarie morris
+T8-13	PER 214 228	valarie morris
+T9-14	PER 294 303	investors
+T9-15	PER 383 387	they
+T10-16	FAC 414 423	complexes
+T11-17	FAC 404 413	apartment
+T12-18	FAC 435 444	buildings
+T13-19	FAC 428 434	office
+T14-20	FAC 455 465	properties
+T15-21	ORG 652 661	companies
+T16-22	PER 722 724	we
+T17-23	ORG 795 799	many
+T18-24	ORG 809 818	companies
+T19-3	PER 1177 1180	you
+T19-4	PER 1300 1303	you
+T19-25	PER 1091 1094	you
+R2-1	PHYS Arg1:T8-6 Arg2:T5-8
+R3-1	EMP-ORG Arg1:T8-6 Arg2:T4-7

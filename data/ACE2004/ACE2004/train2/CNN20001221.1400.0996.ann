@@ -1,0 +1,13 @@
+T1-1	PER 79 86	farmers
+T1-8	PER 286 293	farmers
+T1-12	PER 382 386	them
+T2-2	GPE 70 78	canadian
+T3-3	GPE 106 119	united states
+T3-7	GPE 260 264	u.s.
+T4-4	GPE 164 184	prince edward island
+T4-9	GPE 331 337	island
+T4-10	GPE 341 351	government
+T4-11	GPE 357 359	it
+T5-5	LOC 214 220	border
+T6-6	PER 242 251	officials
+R1-1	GPE-AFF Arg1:T1-1 Arg2:T2-2

@@ -1,0 +1,38 @@
+T1-1	PER 65 68	she
+T1-2	PER 1109 1113	star
+T1-3	PER 1116 1125	astronaut
+T1-4	PER 1143 1152	candidate
+T1-5	PER 96 99	she
+T1-6	PER 136 142	barbie
+T1-7	PER 162 165	she
+T1-8	PER 255 261	barbie
+T1-9	PER 286 289	her
+T1-10	PER 360 366	barbie
+T1-11	PER 441 444	her
+T1-12	PER 410 413	her
+T1-13	PER 470 473	her
+T1-14	PER 486 510	barbie millicent roberts
+T1-15	PER 600 609	bombshell
+T1-16	PER 700 703	her
+T1-17	PER 797 803	barbie
+T1-18	PER 855 858	she
+T1-19	PER 873 876	her
+T1-20	PER 1055 1063	princess
+T1-35	PER 74 89	forty-something
+T4-21	PER 175 187	bob glascoff
+T4-33	PER 1179 1191	bob glascoff
+T4-34	PER 1174 1175	i
+T6-22	ORG 338 349	mattel, inc
+T6-23	ORG 329 337	toymaker
+T6-26	ORG 543 549	mattel
+T8-24	PER 529 537	daughter
+T9-25	PER 550 560	co-founder
+T11-27	PER 667 674	critics
+T12-28	FAC 567 572	store
+T13-29	PER 766 771	girls
+T14-30	PER 998 1006	amputees
+T15-31	ORG 1034 1040	center
+T16-32	ORG 1010 1025	duke university
+R1-1	PER-SOC Arg1:T8-24 Arg2:T9-25
+R2-1	EMP-ORG Arg1:T9-25 Arg2:T6-26
+R3-1	EMP-ORG Arg1:T15-31 Arg2:T16-32

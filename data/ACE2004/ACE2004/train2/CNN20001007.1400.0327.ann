@@ -1,0 +1,23 @@
+T1-21	GPE 513 525	palestinians
+T2-2	GPE 533 537	u.s.
+T3-3	GPE 631 637	israel
+T4-1	PER 65 74	president
+T4-4	PER 75 82	clinton
+T4-5	PER 104 107	his
+T4-6	PER 129 131	he
+T4-7	PER 201 203	he
+T4-8	PER 263 265	he
+T4-9	PER 306 308	he
+T4-10	PER 356 363	clinton
+T4-11	PER 351 353	mr
+T7-12	GPE 144 154	washington
+T8-13	LOC 187 198	middle east
+T9-14	GPE 243 247	ohio
+T10-15	PER 290 303	yasser arafat
+T11-16	PER 275 285	ehud barak
+T12-17	PER 339 348	president
+T13-18	GPE 330 338	egyptian
+T14-19	ORG 406 427	u.n. security council
+T14-20	ORG 472 474	it
+R1-1	PHYS Arg1:T4-6 Arg2:T7-12
+R2-1	EMP-ORG Arg1:T12-17 Arg2:T13-18

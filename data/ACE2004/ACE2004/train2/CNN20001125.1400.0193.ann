@@ -1,0 +1,15 @@
+T1-1	PER 95 110	george mitchell
+T1-4	PER 88 94	leader
+T1-7	PER 163 165	he
+T2-2	ORG 72 78	senate
+T3-3	GPE 117 128	tallahassee
+T5-5	ORG 152 160	campaign
+T6-6	PER 147 151	gore
+T7-8	GPE 254 259	texas
+T8-9	GPE 264 271	florida
+T9-10	GPE 282 288	states
+T10-11	PER 410 415	voter
+T11-12	ORG 476 481	court
+T12-13	GPE 484 489	state
+R1-1	EMP-ORG Arg1:T1-4 Arg2:T2-2
+R2-1	EMP-ORG Arg1:T6-6 Arg2:T5-5

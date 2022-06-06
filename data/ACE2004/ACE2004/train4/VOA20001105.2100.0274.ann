@@ -1,0 +1,23 @@
+T1-1	PER 75 84	officials
+T2-3	GPE 65 74	Brazilian
+T2-9	GPE 213 218	state
+T3-4	VEH 96 102	tanker
+T3-8	VEH 239 245	tanker
+T4-5	FAC 122 126	pier
+T4-11	FAC 263 267	pier
+T5-6	LOC 139 143	area
+T6-7	LOC 201 206	ocean
+T7-2	ORG 481 493	Petro Basque
+T7-10	ORG 226 238	Petro Basque
+T8-13	GPE 271 284	San Sebastian
+T8-14	GPE 297 303	resort
+T10-15	GPE 313 322	Sao Paulo
+T11-16	PER 325 332	Workers
+T12-17	PER 386 397	authorities
+T13-18	LOC 437 444	beaches
+R1-1	EMP-ORG Arg1:T1-1 Arg2:T2-3
+R2-1	PHYS Arg1:T4-5 Arg2:T5-6
+R3-1	ART Arg1:T2-9 Arg2:T3-8
+R4-1	ART Arg1:T7-10 Arg2:T3-8
+R5-1	PHYS Arg1:T4-11 Arg2:T8-13
+R6-1	PHYS Arg1:T8-14 Arg2:T10-15

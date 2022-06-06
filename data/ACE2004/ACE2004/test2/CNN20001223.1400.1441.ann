@@ -1,0 +1,8 @@
+T1-1	PER 142 149	shearer
+T1-3	PER 169 182	rodney sutton
+T1-5	PER 284 287	him
+T1-6	PER 309 315	sutton
+T1-7	PER 321 323	he
+T2-2	GPE 155 166	new zealand
+T3-4	PER 267 275	hundreds
+R1-1	GPE-AFF Arg1:T1-1 Arg2:T2-2

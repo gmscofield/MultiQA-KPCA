@@ -1,0 +1,10 @@
+T1-1	PER 112 113	i
+T1-2	PER 117 129	myron kandel
+T3-3	FAC 143 151	newsdesk
+T4-4	ORG 137 142	cnnfn
+T5-5	GPE 155 163	new york
+T6-6	PER 273 281	analysts
+T7-7	GPE 382 388	nation
+R1-1	PHYS Arg1:T1-2 Arg2:T3-3
+R2-1	PHYS Arg1:T3-3 Arg2:T5-5
+R3-1	ART Arg1:T4-4 Arg2:T3-3

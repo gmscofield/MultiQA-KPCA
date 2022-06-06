@@ -1,0 +1,61 @@
+T1-50	GPE 467 475	oklahoma
+T2-2	PER 569 577	analysts
+T2-29	PER 1424 1432	analysts
+T3-3	PER 594 600	owners
+T4-4	VEH 590 593	car
+T5-6	PER 658 672	bryan tashjian
+T5-7	PER 651 657	dealer
+T5-9	PER 701 704	his
+T5-11	PER 742 743	i
+T7-8	GPE 683 693	california
+T8-12	PER 763 769	people
+T8-13	PER 784 788	they
+T9-15	PER 890 900	john lampe
+T9-17	PER 881 889	chairman
+T11-18	PER 939 948	reporters
+T12-19	GPE 995 1005	government
+T12-21	GPE 1087 1091	u.s.
+T12-24	GPE 1167 1177	government
+T12-35	GPE 153 160	country
+T13-20	VEH 1041 1045	cars
+T15-22	GPE 1131 1140	venezuela
+T16-23	GPE 1149 1160	middle east
+T17-25	PER 1203 1209	people
+T18-26	ORG 1233 1279	national highway traffic safety administration
+T19-5	ORG 629 638	firestone
+T19-10	ORG 705 714	firestone
+T19-14	ORG 828 837	firestone
+T19-27	ORG 1286 1295	firestone
+T19-28	ORG 1367 1369	it
+T19-30	ORG 1454 1463	firestone
+T19-34	ORG 1051 1060	firestone
+T19-42	ORG 327 336	firestone
+T20-32	ORG 1566 1574	nbc news
+T21-33	GPE 1577 1585	new york
+T22-1	ORG 92 113	bridgestone/firestone
+T22-16	ORG 859 880	bridgestone/firestone
+T22-47	ORG 421 442	bridgestone/firestone
+T23-31	PER 1552 1563	mike jensen
+T23-38	PER 193 206	correspondent
+T23-39	PER 207 218	mike jensen
+T24-36	ORG 170 173	nbc
+T26-40	PER 280 287	workers
+T27-41	FAC 337 342	plant
+T27-45	FAC 367 372	which
+T29-43	GPE 346 353	decatur
+T30-44	GPE 356 364	illinois
+T31-46	FAC 443 449	plants
+T34-49	GPE 453 462	tennessee
+R1-1	EMP-ORG Arg1:T23-38 Arg2:T24-36
+R2-1	ART Arg1:T19-42 Arg2:T27-41
+R3-1	PHYS Arg1:T27-41 Arg2:T29-43
+R4-1	ART Arg1:T22-47 Arg2:T31-46
+R5-1	PHYS Arg1:T31-46 Arg2:T34-49
+R6-1	PHYS Arg1:T31-46 Arg2:T1-50
+R7-1	ART Arg1:T3-3 Arg2:T4-4
+R8-1	EMP-ORG Arg1:T9-17 Arg2:T22-16
+R9-1	PHYS Arg1:T23-31 Arg2:T21-33
+R10-1	EMP-ORG Arg1:T26-40 Arg2:T27-41
+R11-1	PHYS Arg1:T29-43 Arg2:T30-44
+R12-1	PHYS Arg1:T5-6 Arg2:T7-8
+R13-1	EMP-ORG Arg1:T23-31 Arg2:T20-32

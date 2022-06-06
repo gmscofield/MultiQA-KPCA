@@ -1,0 +1,17 @@
+T1-1	PER 65 73	analysts
+T2-2	ORG 175 178	ibm
+T2-3	ORG 215 217	it
+T2-7	ORG 400 403	ibm
+T2-13	ORG 194 197	its
+T3-4	GPE 291 299	new york
+T4-5	GPE 326 339	new york city
+T5-6	FAC 409 415	plants
+T7-8	GPE 419 426	vermont
+T8-9	GPE 431 436	japan
+T9-10	FAC 279 283	plan
+T10-11	ORG 123 132	chipmaker
+T11-12	ORG 106 112	sector
+R1-1	PHYS Arg1:T5-6 Arg2:T8-9
+R2-1	PHYS Arg1:T9-10 Arg2:T3-4
+R3-1	PHYS Arg1:T9-10 Arg2:T4-5
+R4-1	PHYS Arg1:T5-6 Arg2:T7-8

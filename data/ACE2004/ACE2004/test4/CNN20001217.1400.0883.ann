@@ -1,0 +1,18 @@
+T1-15	GPE 1393 1401	new york
+T2-1	ORG 69 84	federal reserve
+T2-3	ORG 253 256	fed
+T2-6	ORG 290 305	federal reserve
+T2-8	ORG 484 487	fed
+T2-9	ORG 581 584	fed
+T4-4	ORG 230 241	wall street
+T5-5	ORG 318 327	committee
+T7-7	PER 455 463	analysts
+T8-10	PER 1297 1307	willow bay
+T9-11	PER 1312 1326	stewart varney
+T10-12	ORG 1347 1350	cnn
+T11-2	PER 161 174	kitty pilgrim
+T11-13	PER 1353 1366	kitty pilgrim
+T12-14	ORG 1371 1389	cnn financial news
+R1-1	EMP-ORG Arg1:T11-13 Arg2:T12-14
+R2-1	PHYS Arg1:T11-13 Arg2:T1-15
+R3-1	EMP-ORG Arg1:T5-5 Arg2:T2-6

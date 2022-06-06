@@ -1,0 +1,6 @@
+T1-1	GPE 110 116	cities
+T2-2	ORG 189 214	u.s. conference of mayors
+T3-3	PER 308 316	families
+T4-4	PER 322 330	children
+T5-5	PER 375 384	officials
+R1-1	PER-SOC Arg1:T3-3 Arg2:T4-4

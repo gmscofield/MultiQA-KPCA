@@ -1,0 +1,22 @@
+T1-19	PER 334 349	hillary clinton
+T2-2	PER 428 438	worshipers
+T3-3	FAC 451 457	temple
+T4-4	PER 444 450	jewish
+T5-5	PER 261 273	presidential
+T6-1	PER 81 91	dan marino
+T6-6	PER 76 80	star
+T6-8	PER 118 125	marshal
+T6-10	PER 170 176	marino
+T8-7	ORG 72 75	nfl
+T10-9	GPE 140 148	new york
+T11-11	PER 213 217	cast
+T12-12	PER 236 249	rudy giuliani
+T12-13	PER 230 235	mayor
+T14-14	PER 284 295	john m cain
+T14-15	PER 274 283	candidate
+T16-16	PER 310 318	hopefuls
+T17-17	ORG 298 309	u.s. senate
+T18-18	PER 319 329	rick lazio
+R1-1	EMP-ORG Arg1:T6-6 Arg2:T8-7
+R2-1	PHYS Arg1:T6-8 Arg2:T10-9
+R5-1	PHYS Arg1:T2-2 Arg2:T3-3

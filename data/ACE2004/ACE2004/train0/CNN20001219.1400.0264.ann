@@ -1,0 +1,35 @@
+T1-2	PER 1177 1182	human
+T2-3	LOC 1215 1221	global
+T2-21	LOC 325 330	globe
+T2-22	LOC 388 393	globe
+T3-4	PER 1241 1244	you
+T4-5	PER 1284 1295	forecasters
+T5-6	LOC 1352 1377	midwest and mountain west
+T6-7	GPE 1403 1407	tier
+T7-8	GPE 1411 1417	states
+T8-9	PER 1487 1490	you
+T9-10	PER 1505 1511	people
+T9-11	PER 1519 1523	they
+T10-12	PER 1644 1653	americans
+T11-14	ORG 1728 1731	cnn
+T12-15	ORG 849 896	national oceanic and atmospheric administration
+T13-1	LOC 71 75	much
+T14-16	GPE 83 90	country
+T14-17	GPE 154 167	united states
+T14-18	GPE 176 179	its
+T14-25	GPE 643 656	united states
+T14-26	GPE 931 939	american
+T14-27	GPE 994 998	u.s.
+T15-13	PER 1709 1725	natalie pawelski
+T15-19	PER 213 229	natalie pawelski
+T16-20	PER 272 275	you
+T18-23	PER 406 408	we
+T19-24	PER 536 543	pundits
+T21-28	PER 1009 1011	we
+T22-29	PER 1059 1061	us
+T23-30	PER 1043 1053	scientists
+T23-31	PER 1062 1066	they
+T24-32	PER 1122 1124	we
+R1-1	PHYS Arg1:T13-1 Arg2:T14-16
+R2-1	PHYS Arg1:T6-7 Arg2:T7-8
+R3-1	EMP-ORG Arg1:T15-13 Arg2:T11-14

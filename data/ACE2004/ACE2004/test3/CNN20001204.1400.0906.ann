@@ -1,0 +1,24 @@
+T1-1	ORG 65 70	pepsi
+T1-6	ORG 173 178	pepsi
+T1-7	ORG 184 186	it
+T1-9	ORG 269 273	they
+T1-12	ORG 410 415	pepsi
+T1-13	ORG 450 455	pepsi
+T1-18	ORG 700 705	pepsi
+T2-2	PER 119 120	i
+T2-3	PER 124 136	myron kandel
+T4-4	ORG 144 149	cnnfn
+T5-5	GPE 162 170	new york
+T6-8	ORG 205 211	quaker
+T6-10	ORG 288 299	quaker oats
+T6-11	ORG 85 96	quaker oats
+T6-14	ORG 466 477	quaker oats
+T6-15	ORG 512 518	quaker
+T6-16	ORG 578 581	its
+T6-17	ORG 609 613	they
+T7-19	ORG 716 732	tropicana juices
+T8-20	ORG 737 755	frito lay products
+R1-1	PHYS Arg1:T2-3 Arg2:T5-5
+R2-1	EMP-ORG Arg1:T7-19 Arg2:T1-18
+R3-1	EMP-ORG Arg1:T8-20 Arg2:T1-18
+R4-1	EMP-ORG Arg1:T6-10 Arg2:T1-9

@@ -1,0 +1,21 @@
+T1-1	GPE 65 76	Palestinian
+T1-9	GPE 234 245	Palestinian
+T1-12	GPE 363 374	Palestinian
+T1-16	GPE 532 543	Palestinian
+T2-2	PER 77 86	officials
+T3-3	GPE 128 135	Israeli
+T4-4	PER 151 161	Ehud Barak
+T4-5	PER 142 150	Minister
+T4-6	PER 164 166	Mr
+T4-7	PER 169 174	Barak
+T4-8	PER 194 196	he
+T6-10	GPE 246 251	state
+T7-11	GPE 308 317	Jerusalem
+T7-14	GPE 492 501	Jerusalem
+T8-13	PER 375 382	leaders
+T9-15	PER 544 552	refugees
+R1-1	GPE-AFF Arg1:T6-10 Arg2:T1-9
+R2-1	EMP-ORG Arg1:T8-13 Arg2:T1-12
+R3-1	GPE-AFF Arg1:T9-15 Arg2:T1-16
+R4-1	EMP-ORG Arg1:T2-2 Arg2:T1-1
+R5-1	EMP-ORG Arg1:T4-5 Arg2:T3-3

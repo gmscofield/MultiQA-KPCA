@@ -1,0 +1,10 @@
+T1-1	ORG 83 90	company
+T1-3	ORG 111 142	martha stewart living omnimedia
+T1-4	ORG 195 198	its
+T1-5	ORG 227 234	company
+T1-6	ORG 240 242	it
+T2-2	PER 65 79	martha stewart
+T2-7	PER 327 341	martha stewart
+T3-8	ORG 396 401	kmart
+T4-9	FAC 376 381	house
+R1-1	EMP-ORG Arg1:T2-2 Arg2:T1-1

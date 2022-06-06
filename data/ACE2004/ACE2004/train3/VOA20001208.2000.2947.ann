@@ -1,0 +1,29 @@
+T1-2	GPE 438 447	Macedonia
+T2-3	GPE 450 456	Poland
+T3-4	GPE 459 466	Romania
+T4-5	GPE 469 475	Russia
+T5-6	GPE 478 486	Slovakia
+T6-7	GPE 489 497	Slovenia
+T7-8	GPE 504 514	Yugoslavia
+T8-9	GPE 551 558	Germany
+T9-10	GPE 561 567	France
+T10-11	GPE 570 575	Italy
+T11-12	GPE 582 587	Spain
+T12-13	ORG 672 691	Reuters News Agency
+T13-1	ORG 91 103	broadcasters
+T14-14	ORG 109 121	Radio Prague
+T15-15	ORG 126 154	Radio Slovakia International
+T16-16	ORG 206 213	venture
+T16-17	ORG 225 250	European Internet Network
+T16-18	ORG 254 257	EIN
+T16-19	ORG 278 281	EIN
+T17-20	GPE 264 270	Prague
+T18-21	GPE 301 308	country
+T19-22	GPE 359 366	Albania
+T20-23	GPE 369 375	Bosnia
+T21-24	GPE 378 386	Bulgaria
+T22-25	GPE 389 394	China
+T23-26	GPE 397 404	Croatia
+T24-27	GPE 411 425	Czech Republic
+T25-28	GPE 428 435	Hungary
+R3-1	GPE-AFF Arg1:T16-19 Arg2:T17-20
