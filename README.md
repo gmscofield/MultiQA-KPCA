@@ -1,2 +1,2 @@
 # MultiQA-KPCA
-北京理工大学知识工程大作业，知识图谱构建，关系抽取任务
+This project is about **relation extraction tasks** in natural language processing. The baseline used in this article is **Multi-turn QA**, a model created by paper published in ACL in 2019. On the basis of the original paper, KPCA and other methods are added. It is my preliminary work in deep learning. Please point out and give directions to me whenever you see any weaknesses or shortages.
